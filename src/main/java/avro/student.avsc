@@ -1,0 +1,12 @@
+{
+    "namespace": "lib.avro",
+    "type": "record",
+    "name": "Student",
+    "fields": [
+        { "name": "index", "type": "string" },
+        { "name": "firstname", "type": "string" },
+        { "name": "lastname", "type": "string" },
+        { "name": "faculty", "type": "string" },
+        { "name": "espb", "type": "int" }
+    ]
+}
